@@ -1,4 +1,6 @@
-# data-aug
+# opencv-data-aug
 Data Augmentation Ideas and Implementation
+<br>
+<br>
 <br>
 Check out the notebook OpenCV_data_aug.ipynb for code and demo
